@@ -2,3 +2,4 @@ leg day
 lat 
 chest
 shoulder
+tri&bi
